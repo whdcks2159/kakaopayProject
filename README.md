@@ -11,7 +11,7 @@ kakaopayProject
 ● 테이블 설계
 
 데이터를 담기위한 테이블
-SETTINFO - settSeq(관리자번호,Seq) , oriManageNo(오리지날 관리자번호, 결제취소의 경우에만 있음), settInfoStr (string 데이터)
+SETTINFO - settSeq(관리자번호,Seq)PrimaryKey , oriManageNo(오리지날 관리자번호, 결제취소의 경우에만 있음), settInfoStr (string 데이터)
 
 현재 남은 금액 확인용 테이블
 CURSETTINFO - manageNo(관리자번호), settAmt(결제금액), settAmt(부가가치세)
