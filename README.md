@@ -21,5 +21,7 @@ CURSETTINFO - manageNo(관리자번호), settAmt(결제금액), settAmt(부가�
 
 ● 실행방법
 http://localhost:8080/enter /enter
+
 결제, 결제취소, 조회
+
 결과값 - pop창으로 노출(json형식으로)
