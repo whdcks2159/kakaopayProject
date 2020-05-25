@@ -8,7 +8,7 @@ kakaopayProject
 
 ● 개발 프레임워크
 
-- Spring
+- SpringMVC
 
 ● 테이블 설계
 
