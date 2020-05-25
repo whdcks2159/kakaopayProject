@@ -49,4 +49,5 @@ http://localhost:8080/enter /enter
 
 결제, 결제취소, 조회
 
+입력값 - input(ajax를 통해 json형식으로 전달)
 결과값 - pop창으로 노출(json형식으로)
